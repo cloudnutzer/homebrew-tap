@@ -3,8 +3,8 @@ class Tm < Formula
 
   desc "Interactive terminal UI for managing tmux sessions"
   homepage "https://github.com/cloudnutzer/tm"
-  url "https://github.com/cloudnutzer/tm/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "313eb5862c04d02e8ec4fc68f269484cb31dc15553d312f2c8d9dccd51a76a51"
+  url "https://github.com/cloudnutzer/tm/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "7c72be1fdcbe0363f47c3ee82c8e3c892929f2f2795caeaf4f51574f9d48bc16"
   license "MIT"
 
   depends_on "python@3.14"
